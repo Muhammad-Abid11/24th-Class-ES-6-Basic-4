@@ -109,3 +109,21 @@ const [s, b, ...c] = numbers
 console.log(`C value--> ${c} and c.length ${c.length}`) //  c=[3]
 
 */
+
+
+
+
+
+
+/*
+
+var ct1={
+    name:"Abid",
+    url:"URL.com"
+}
+t=Object.keys(ct1).length;
+console.log(t);
+console.log(Object.keys(ct1))
+console.log(Object.values(ct1))
+
+*/ 
