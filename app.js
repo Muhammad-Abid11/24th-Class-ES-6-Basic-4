@@ -126,4 +126,14 @@ console.log(t);
 console.log(Object.keys(ct1))
 console.log(Object.values(ct1))
 
+*/
+
+
+
+/*
+
+const x="lol";
+const y="color:red";
+console.log(`%c ${x}`,`${y}`) // output of console Red
+
 */ 
